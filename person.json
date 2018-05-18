@@ -1,0 +1,26 @@
+{
+    "user" : [
+        {
+          "name" : "Shashi",
+          "lname": "Jon"
+        },{
+          "name": "Rohan",
+          "lname" : "Kulkarni"
+        },{
+            "name": "Rohan",
+            "lname" : "Thakur"
+          },{
+            "name": "Asmit",
+            "lname" : "Patil" 
+          },{
+            "name": "Rohit",
+            "lname" : "singh"
+          },{
+            "name": "Kuldeep",
+            "lname" : "Mishra"
+          },{
+            "name": "Ken",
+            "lname" : "Thomson"
+          }
+      ]
+}
